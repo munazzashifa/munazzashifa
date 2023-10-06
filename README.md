@@ -4,6 +4,8 @@
 
 🌱 I am currently CS student at the University of Illinois at Chicago, learning and growing in the vast world of software development, one      commit at a time.
 
+📚 Relevant Coursework: Program Design, Discrete Mathematics, Data Structures, Applied Linear Algebra
+
 🚀 I'm open to collaboration and learning something new!
 
 📫 Reach me at munazzashifa123@gmail.com
