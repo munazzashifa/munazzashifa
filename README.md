@@ -1,7 +1,14 @@
-👋 Hi there! My name is Munazza Shifa.
+👋 Hello there! I'm Munazza Shifa, a Computer Science junior.
 
-- 📚 I’m currently a CS student at the University of Illinois at Chicago.
-- 📫 How to reach me @ munazzashifa123@gmail.com
+💻 I'm passionate about writing code, exploring new programming languages, and collaborating on exciting projects.
+
+🌱 I am currently CS student at the University of Illinois at Chicago, learning and growing in the vast world of software development, one  commit at a time.
+
+🚀 I'm open to collaboration and learning something new!
+
+📫 Reach me at munazzashifa123@gmail.com
+
+Happy coding! ☺️
 
 
 <!---
