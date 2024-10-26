@@ -1,4 +1,4 @@
-👋 Hello there! I'm Munazza Shifa, a Computer Science junior.
+👋 Hello there! I'm Munazza Shifa, a Computer Science student at the University of Illinois at Chicago.
 
 💻 I'm passionate about writing code, exploring new programming languages, and collaborating on exciting projects.
 
