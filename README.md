@@ -2,7 +2,7 @@
 
 💻 I'm passionate about writing code, exploring new programming languages, and collaborating on exciting projects.
 
-🌱 I am currently a Computer Science student at the University of Illinois at Chicago student at the University of Illinois at Chicago, learning and growing in the vast world of software development, one      commit at a time.
+🌱 I am currently a Computer Science student at the University of Illinois at Chicago, learning and growing in the vast world of software development, one      commit at a time.
 
 📚 Relevant Coursework: Program Design, Discrete Mathematics, Data Structures, Applied Linear Algebra
 
