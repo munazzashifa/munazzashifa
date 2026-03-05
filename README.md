@@ -1,4 +1,4 @@
-👋 Hello there! I'm Munazza Shifa.
+👋 Hello there! I'm Munazza.
 
 💻 I'm passionate about writing code, exploring new programming languages, and collaborating on exciting projects.
 
